@@ -1,5 +1,4 @@
 - 👋 Hi you, I’m Najoua ElFethi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Dart and Flutter
 
 <!---
