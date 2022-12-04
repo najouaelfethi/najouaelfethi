@@ -3,15 +3,6 @@
 - Self-taught mobile app development
 - 🌱 I’m currently learning Dart and Flutter
 - ✨Interests: I enjoy reading books, listening to music
-- Find me :
-- <div id="badges"> 
-<a href="https://www.linkedin.com/in/najoua-elfethi-627a91211/">
-https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn &logoColor=white&style=for-the-badge
-</a>
-<a href=https://web.facebook.com/najwa.elfethi/"">
- https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge
-<a/>
-</div>
 
 
 <!---
