@@ -2,7 +2,7 @@
 - Computer science student at FST BM 
 - Self-taught mobile app development
 - 🌱 I’m currently learning Dart and Flutter
-- ✨Interests: I enjoy reading books, listening to music
+- ✨Interests: I love hiking, traveling, reading books and listening to music
 
 
 <!---
