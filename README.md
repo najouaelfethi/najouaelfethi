@@ -1,4 +1,4 @@
-- 👋 Hi you, I’m Najoua ElFethi
+- 👋 Hei you, I’m Najoua ElFethi
 - Computer science student at FST BM 
 - Self-taught mobile app development
 - 🌱 I’m currently learning Dart and Flutter
