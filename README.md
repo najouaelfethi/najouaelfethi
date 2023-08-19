@@ -3,7 +3,7 @@
 - Self-taught mobile app development
 - 🌱 I’m currently learning Dart and Flutter
 - ✨Interests: I love hiking, traveling, reading books and listening to music
-- 📫 How to reach me @najouahelfethi@outlook.com
+- 📫 How to reach me @najouaelfethi@gmail.com
 
 
 <!---
