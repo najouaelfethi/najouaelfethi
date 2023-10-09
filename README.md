@@ -1,6 +1,5 @@
 - 👋 Hei you, I’m Najoua ElFethi
 - Computer science student at FST BM 
-- 🌱 I’m currently learning Dart and Flutter
 - ✨Interests: I love hiking, traveling, reading books and listening to music
 - 📫 How to reach me @najouaelfethi@gmail.com
 
