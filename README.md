@@ -1,6 +1,6 @@
 - 👋 Hei you, I’m Najoua ElFethi
-- Computer science student at FST BM 
-- ✨Interests: I love hiking, traveling, reading books and listening to music
+- Data Science and Smart Systems Student at FP Nador
+- ✨Interests: I love hiking, traveling and reading books 
 - 📫 How to reach me @najouaelfethi@gmail.com
 
 
