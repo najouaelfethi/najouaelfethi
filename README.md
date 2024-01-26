@@ -1,5 +1,5 @@
 - 👋 Hei you, I’m Najoua ElFethi
-- Data Science and Smart Systems Student at FP Nador
+- Master in Data Science and Smart Systems on the way!
 - ✨Interests: I love hiking, traveling and reading books 
 - 📫 How to reach me @najouaelfethi@gmail.com
 
