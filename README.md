@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najoua ELFETHI</h1>
-<h3 align="center">Master in Data Science and Smart Systems on the way!</h3>
+<h3 align="center">Master in Data Science and Smart Systems</h3>
 
 - 📫 How to reach me <a href='najouaelfethi@gmail.com'>najouaelfethi@gmail.com</a> 
 <img align="right" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="250px">
